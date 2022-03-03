@@ -5,7 +5,7 @@ public class Order {
     private final String code;
 
     public Order(String code) {
-        this.comde = code;
+        this.code = code;
     }
 
     @Override

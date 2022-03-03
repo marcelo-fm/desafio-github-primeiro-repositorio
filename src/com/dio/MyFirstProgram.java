@@ -6,6 +6,6 @@ public class MyFirstProgram {
 
     public static void main(String[] args) {
         final Order order = new Order("code1234");
-        System.out.println(order)
+        System.out.println(order);
     }
 }
