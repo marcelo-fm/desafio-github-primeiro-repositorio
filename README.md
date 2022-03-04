@@ -8,4 +8,4 @@
 
 ## Projetos:
 - [MyFirstClass.java](src/com/dio/MyFirstProgram.java)
-- [ExercicioValores01](target/com/dio/ExerciciosValores01.java)
+- [ExercicioValores01.java](target/com/dio/ExerciciosValores01.java)
