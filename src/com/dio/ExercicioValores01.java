@@ -1,6 +1,6 @@
 package com.dio;
 
-public class ExercicioValores {
+public class ExercicioValores01 {
     public static void main(String[] args) {
         
         int i;
