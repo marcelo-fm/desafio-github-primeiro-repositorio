@@ -1,7 +1,5 @@
 package com.dio;
 
-import javax.print.event.PrintEvent;
-
 public class ExercicioValores {
     public static void main(String[] args) {
         
@@ -20,11 +18,11 @@ public class ExercicioValores {
 
         final int J = 10;
 
-        System.out.println("a: " + a);
+        System.out.print("a: " + a + "\t");
         System.out.println("b: " + b);
-        System.out.println("c: " + c);
+        System.out.print("c: " + c + "\t");
         System.out.println("i: " + i);
-        System.out.println("I: " + I);
+        System.out.print("I: " + I + "\t");
         System.out.println("J: " + J);
     }
 }
