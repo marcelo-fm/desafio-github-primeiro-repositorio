@@ -7,5 +7,6 @@
 * [perfil do github](https://github.com/marcelo-fm)
 
 ## Projetos:
-- [MyFirstClass.java](src/com/dio/MyFirstProgram.java)
+- [MyFirstprogram.java](src/com/dio/MyFirstProgram.java)
 - [ExercicioValores01.java](src/com/dio/ExercicioValores01.java)
+- [ExercicioValores02.java](src/com/dio/ExercicioValores02.java)
