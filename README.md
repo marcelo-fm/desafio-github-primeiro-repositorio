@@ -11,3 +11,4 @@
 - [ExercicioValores01.java](src/com/dio/ExercicioValores01.java)
 - [ExercicioValores02.java](src/com/dio/ExercicioValores02.java)
 - [ExercicioOperadores.java](src/com/dio/ExercicioOperadores.java)
+- [ExercicioCasting.java](src/com/dio/ExercicioCasting.java)
